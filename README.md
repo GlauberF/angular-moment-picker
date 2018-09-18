@@ -16,17 +16,15 @@
 
 Get Angular Moment Picker from [**npm**](https://www.npmjs.com/), [**bower**](http://bower.io/) or [**git**](https://git-scm.com/):
 ```
-  npm install angular-moment-picker
-bower install moment-picker
-  git clone   https://github.com/indrimuska/angular-moment-picker.git
+  bower install angular-moment-picker-glauber
 ```
 
 Include style and script in your page:
 ```html
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment-with-locales.js"></script>
-<script src="//cdn.rawgit.com/indrimuska/angular-moment-picker/master/dist/angular-moment-picker.min.js"></script>
-<link href="//cdn.rawgit.com/indrimuska/angular-moment-picker/master/dist/angular-moment-picker.min.css" rel="stylesheet">
+<script src="//cdn.rawgit.com/indrimuska/angular-moment-picker/master/dist/angular-moment-picker.js"></script>
+<link href="//cdn.rawgit.com/indrimuska/angular-moment-picker/master/dist/angular-moment-picker.css" rel="stylesheet">
 ```
 
 Add *moment-picker* dependency to your module:
