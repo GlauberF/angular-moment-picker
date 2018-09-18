@@ -1,22 +1,17 @@
 # Angular Moment Picker
 
-[![Join the chat at https://gitter.im/indrimuska/angular-moment-picker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indrimuska/angular-moment-picker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<!-- [![Join the chat at https://gitter.im/indrimuska/angular-moment-picker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indrimuska/angular-moment-picker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 [![Build Status](https://travis-ci.org/indrimuska/angular-moment-picker.svg)](https://travis-ci.org/indrimuska/angular-moment-picker)
 
-[![NPM version](http://img.shields.io/npm/v/angular-moment-picker.svg?style=flat)](https://npmjs.org/package/angular-moment-picker)
+<!-- [![NPM version](http://img.shields.io/npm/v/angular-moment-picker.svg?style=flat)](https://npmjs.org/package/angular-moment-picker)
 [![NPM downloads](http://img.shields.io/npm/dm/angular-moment-picker.svg?style=flat)](https://npmjs.org/package/angular-moment-picker)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![CDNJS](https://img.shields.io/cdnjs/v/angular-moment-picker.svg)](https://cdnjs.com/libraries/angular-moment-picker)
+[![CDNJS](https://img.shields.io/cdnjs/v/angular-moment-picker.svg)](https://cdnjs.com/libraries/angular-moment-picker) -->
 
 Check out the homepage at [http://indrimuska.github.io/angular-moment-picker/](http://indrimuska.github.io/angular-moment-picker/).
 
 *Angular Moment Picker* is a native AngularJS directive for date and time picker that uses *Moment.js* and **does not require jQuery**.
 
-<p align="center">
-    <a href="http://indrimuska.github.io/angular-moment-picker/">
-        <img src="http://indrimuska.github.io/angular-moment-picker/img/angular-moment-picker.gif" alt="Angular Moment Picker demo">
-    </a>
-</p>
 
 ## Installation
 
